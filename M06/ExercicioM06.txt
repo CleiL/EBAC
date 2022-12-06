@@ -1,0 +1,7 @@
+function calcularArea(altura,base) {
+
+  let area = altura * base;
+
+  return area;
+
+}
